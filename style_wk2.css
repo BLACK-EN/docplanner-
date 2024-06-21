@@ -1,0 +1,70 @@
+.navbar li {
+    display: inline-block;
+    margin:10px;
+    position:relative;
+    bottom: 50px;
+    left:65%;
+    font-size:17px;
+}
+
+.About_us {
+    color:#00b39b;
+}
+
+.Career{
+    color:#676d6c;
+}
+
+.Departments{
+    color:#676d6c;
+}
+
+.logo1{
+    position:relative;
+    left:50%;
+}
+
+.intro{
+    position:relative;
+    bottom:-40px;
+}
+
+.title1{
+    position: relative;
+    left:24%;
+    bottom:30px;
+    font-size:40px;
+    color:#00b39b;
+}
+
+.first_im{
+    position:relative;
+    left:16.5%;
+}
+
+h1, h2, h3, h4 {
+    margin: 1em 0;
+    font-family: Work Sans, Arial, sans-serif;
+    font-weight: 90;
+    letter-spacing: -.3px;
+}
+
+.div1{
+    position:relative;
+    left:16.5%;
+    font-size:21px;
+    color:#676d6c;
+}
+
+.div2{
+    position:relative;
+    left:53%;
+    font-size:21px;
+    color:#676d6c;
+    bottom: 225px;
+}
+
+.div_p1{
+    /*background:green;*/
+    
+}
